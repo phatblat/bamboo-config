@@ -3,10 +3,10 @@
 <plist version="1.0">
     <dict>
         <key>Label</key>
-        <string>com.atlassian.bamboo</string>
+        <string>bamboo</string>
 
         <key>UserName</key>
-        <string>username_goes_here</string>
+        <string>phatblat</string>
 
         <key>ProgramArguments</key>
         <array>
