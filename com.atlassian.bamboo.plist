@@ -10,7 +10,7 @@
 
         <key>ProgramArguments</key>
         <array>
-            <string>/Applications/Bamboo/bamboo.sh</string>
+            <string>/Users/phatblat/dev/bamboo/current/bamboo.sh</string>
             <string>console</string>
         </array>
 
